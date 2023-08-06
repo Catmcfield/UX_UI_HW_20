@@ -1,0 +1,93 @@
+.bg-img {
+    /* The image used */
+    background-image: url("https://images.unsplash.com/photo-1533158388470-9a56699990c6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1055&q=80");
+  
+    min-height: 380px;
+   
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+    /* Needed to position the navbar */
+    position: relative;
+  }
+
+.container img {
+width: 50%;
+margin-left: 25%;
+}
+
+
+.nav-item{
+    font-family: 'Martel Sans', sans-serif;
+    font-size: 24px;
+
+}
+body {
+    font-family: 'Martel Sans', sans-serif;
+    color: #2E333D;
+    
+
+}
+h1 {
+    font-family: 'Martel Sans', sans-serif;
+    color: #2E333D;
+    line-height: 150%;
+    
+}
+h2 {
+    font-display: flex;
+    font-family: 'Martel Sans', sans-serif;
+    color: #2E333D;
+    font-size: 36px;
+}
+h3 {
+    font-display: flex;
+    font-family: 'Martel Sans', sans-serif;
+    color: #2E333D;
+    font-size: 24px;
+}
+
+.display-4 {
+    font-family: 'Indie Flower', cursive;
+}
+
+.case-intro {
+    padding-top: 100px;
+}
+.title{
+    background-color: #CAE2C9;
+    
+}
+.title h1 {
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 10px;
+    
+}
+
+.information h2 {
+    padding-top: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-bottom: 100px ;
+}
+.information img {
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 75%;
+    padding-bottom:100px;
+}
+.comp-list{
+   font-size: 36px; 
+   list-style-type: circle;
+   
+}
+.new-section {
+   padding-top: 150px;   
+}
+.prototype-vid{
+    width: 50%;
+}
